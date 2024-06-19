@@ -1,2 +1,2 @@
-# servlet_4
-Esse repositório faz enivio de dados via get e post, autenticando e validando as informações necessárias com a ultilização de bando de dados
+# Servlet Sample 4
+This repository sends data via get and post, authenticating and validating the necessary information using a database
